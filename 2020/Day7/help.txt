@@ -1,0 +1,8 @@
+1.  find out which bags can hold shiny gold, and put them in a list 'A'
+2.  find out which bags can hold each of the bags in list 'a', and put them at the end of the list
+note:
+    also I've got to account for cycles, cause there might be some (IDK)
+        - cycles meaning bag A is in bag B, bag B is in bag C, and bag C is in bag A.
+          but I think I can
+3.  count the list length
+
