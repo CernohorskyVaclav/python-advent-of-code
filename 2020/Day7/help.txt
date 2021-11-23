@@ -6,3 +6,7 @@ note:
           but I think I can
 3.  count the list length
 
+
+part 2:
+
+1.
